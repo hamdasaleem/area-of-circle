@@ -2,7 +2,7 @@ Python program which accepts the radius of a circle from the user and computes a
 
 from math import pi
 
-r = float(input ("Inout radius of the circle : "))
+r = float(input ("Input radius of the circle : "))
 
 print ("The area of the circle with this radius is: " + str(pi * r**2))
 
